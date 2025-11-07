@@ -1,42 +1,60 @@
-🍱 TO SUPPLY LEFTOVER FOOD TO THE POOR
+# 🍱 To Supply Leftover Food to the Poor
 
-Team ID: NM2025TMID02342
-Team Size: 4
+## Team Information
+**Team ID:** NM2025TMID02342  
+**Team Size:** 4  
 
-Team Members:  
+**Team Members**
+- 👨‍💼 **Team Leader:** Dhanush R.  
+- 👨‍💻 **Team Member:** Chandru J.  
+- 👨‍💻 **Team Member:** Leegan S.  
+- 👨‍💻 **Team Member:** Dhileepraj P.  
 
-Team Leader: Dhanush R.
+---
 
-Team Member: Chandru J.
+## 🌍 Project Overview
+This project aims to **minimize food wastage** and **fight hunger** by creating a platform that connects **restaurants, events, and households** with **NGOs and volunteers** who can collect and distribute leftover food to those in need.
 
-Team Member: Leegan S.
+By leveraging modern technology, we ensure that **surplus food is utilized effectively**, reaching people who need it most while promoting **sustainability and social welfare**.
 
-Team Member: Dhileepraj P.
+---
 
-🌍 Project Overview
+## ⚙️ Key Features
+- 🥗 **Real-Time Food Donation Portal:** Donors can instantly post available food items.  
+- 🚴 **Volunteer & NGO Dashboard:** Enables seamless coordination for pickups and deliveries.  
+- 📍 **Geo-Location Matching:** Connects donors and receivers based on proximity.  
+- ✅ **Food Safety Checklist:** Ensures all donated food meets safety and hygiene standards.  
+- 📊 **Analytics Dashboard:** Tracks donations, community impact, and wastage reduction.
 
-Our project aims to reduce food waste and combat hunger by creating a platform that connects restaurants, events, and households with NGOs or volunteers who can collect and distribute leftover food to people in need. This initiative ensures that surplus food reaches the poor safely and efficiently, promoting sustainability and social responsibility.
+---
 
-⚙️ Key Features
+## 💡 Impact
+- Reduces food waste across urban and semi-urban areas.  
+- Provides consistent food supply for underprivileged communities.  
+- Encourages community participation and social responsibility.  
+- Contributes to **Sustainable Development Goals (SDG 2 - Zero Hunger)**.
 
-Real-Time Food Donation Portal: Donors can instantly list available leftover food.
+---
 
-Volunteer & NGO Dashboard: Enables quick response and pickup coordination.
+## 🚀 Project Demo
+🔗 [**View Live Demo**](https://orgfarm-ac24e089aa-dev-ed.develop.lightning.force.com/lightning/page/home)
 
-Geo-Location Tracking: Helps match nearby donors and receivers.
+---
 
-Food Safety Checklist: Ensures all food donations meet safety standards.
+## 🛠️ Tech Stack
+- **Frontend:** Salesforce Lightning Components  
+- **Backend:** Salesforce Apex & Lightning Data Service  
+- **Database:** Salesforce Object Storage  
+- **Integration:** Geo-location & Volunteer Matching APIs
 
-Analytics Dashboard: Tracks donations, impact, and reduces wastage metrics.
+---
 
-💡 Impact
+## 📈 Future Enhancements
+- Mobile App Integration for real-time alerts.  
+- AI-based matching for faster donor–receiver pairing.  
+- Food quality image verification using machine learning.  
+- Expansion to rural and semi-urban regions.
 
-Reduces food wastage in urban areas.
 
-Supports underprivileged communities with nutritious meals.
 
-Promotes community-driven social good through technology.
-
-🚀 Project Demo
-
-🔗https://orgfarm-ac24e089aa-dev-ed.develop.lightning.force.com/lightning/page/home
+⭐ **“Saving food today means saving lives tomorrow.”**

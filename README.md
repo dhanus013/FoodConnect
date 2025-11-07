@@ -39,4 +39,4 @@ Promotes community-driven social good through technology.
 
 🚀 Project Demo
 
-🔗 Click to View Demo
+🔗https://orgfarm-ac24e089aa-dev-ed.develop.lightning.force.com/lightning/page/home
